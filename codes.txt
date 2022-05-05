@@ -1,0 +1,59 @@
+Hold down the sequence button to show the sound for the first block.
+The first letter in each pair corresponds to the LED on top.
+
+o = off
+r = red
+y = yellow
+g = green
+a = aqua
+b = blue
+p = purple
+w = white
+
+oo = Off
+ww = None/in between. Move a little in either direction to set the value.
+or = "aa" # father
+oy = "ae" # fat
+og = "ah" # but
+oa = "ao" # lawn
+ob = "aw" # how
+op = "ax" # about
+ow = "axr"
+ro = "ay" # hide
+rr = "b"
+ry = "ch"
+rg = "d"
+ra = "dh"
+rb = "eh" # get
+rp = "el"
+rw = "em"
+yo = "en"
+yr = "er" # always followed by r (er-r == axr"
+yy = "ey" # gate
+yg = "f"
+ya = "g"
+yb = "hh"
+yp = "hv"
+yw = "ih" # bit
+go = "iy" # beet
+gr = "jh"
+gy = "k"
+gg = "l"
+ga = "m"
+gb = "n"
+gp = "ng"
+gw = "ow" # lone
+ao = "oy" # toy
+ar = "p"
+ay = "r"
+ag = "s"
+aa = "sh"
+ab = "t"
+ap = "th"
+aw = "uh" # full
+bo = "uw" # fool
+br = "v"
+by = "w"
+bg = "y"
+ba = "z"
+bb = "zh"
