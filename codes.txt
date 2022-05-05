@@ -1,5 +1,4 @@
-Hold down the sequence button to show the sound for the first block.
-The first letter in each pair corresponds to the LED on top.
+The lights shown correspond to the sound of the block in the first position.
 
 o = off
 r = red
